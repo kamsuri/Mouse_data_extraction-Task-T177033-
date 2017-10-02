@@ -9,4 +9,4 @@ Extracts following features using the Mouse-dynamics-challenge datset:-
 7)Averge drag length: It tells the average length for which user has dragged an object.
 8)Average drag time: Average time taken by a user to drag an object, can be checked against feasible range of a normal human user.
  
-The above mentioned features can be used to detect if a user is a bot or not at an initial stage. I will keep updating this list of features. 
+The above mentioned features can be used to detect if a user is a bot or not at an initial stage. I will keep updating this list of features. These features have been extracted using initial 10 data files in "user12" only.
